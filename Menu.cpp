@@ -34,7 +34,7 @@ int main()
 			cin >> pass2;
 			if (user == user1 && pass == pass2)
 			{
-				cout << "Username or password correct" << endl;
+				cout << "Username or password correct ^______^" << endl;
 
 			}
 
